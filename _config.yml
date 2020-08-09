@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
-# theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "dark" 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "R. Stuart Geiger"
+title                    : "Priya Batra"
 title_separator          : "-"
 name                     : &name "R. Stuart Geiger"
 description              : &description "computational ethnographer<br/>ethnographer of computation"
